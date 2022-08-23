@@ -14,7 +14,8 @@ Use `manim [OPTION] index.py Index` to render the video
 There are 85 animations in, make sure your PC has time for rendering
 #### Video:
 
-*Still Updating...*
+
+https://user-images.githubusercontent.com/62001770/186051542-d80b0807-785f-4804-aad7-2ffcad6dc7cb.mp4
 
 
 *POV: You play osu! more than 3 hours a day*
