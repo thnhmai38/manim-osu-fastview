@@ -10,8 +10,8 @@
 - [Python 3](https://www.python.org/)
 	
 #### Rendering:
-	Use `manim [OPTION] index.py Index` to render the video
-	There are more than 100 animations in, make sure your PC has time for rendering
+Use `manim [OPTION] index.py Index` to render the video
+There are more than 100 animations in, make sure your PC has time for rendering
 #### Video:
 
 *Still Updating...*
