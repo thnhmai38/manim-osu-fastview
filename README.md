@@ -1,6 +1,6 @@
 <h1 align="center">manim-osu-fastview</h1>
 <p align="center">Travel 4 osu! mode by showing ~10s gameplay per mode (Fastview)</p>
-<p align="center">Build in Manim Community</p>
+<p align="center">Build in [Manim Community](https://github.com/ManimCommunity/manim)</p>
 
 *This is not useful, why I made it?*
 
